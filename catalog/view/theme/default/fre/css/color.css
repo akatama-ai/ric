@@ -1,0 +1,108 @@
+.topbar,
+.menubar,
+.coloured:before,
+.option-set li a:before,
+.provide-project:before,
+.dark-btn:hover,
+.price-table:hover .dark-btn,
+.team-carousel .owl-nav > div:hover:before,
+.fancy-social > a:hover,
+.provide-bar .progress .progress-bar,
+.news-img > span,
+.provide-news:after,
+.color-btn,
+.dark-socials > a:hover,
+header.style2 .menubar .container,
+header.style2 .socials > a,
+.fancy-name:before,
+.fancy-title:after,
+.social > a:before,
+.provide-accordion.style2 .toggle-item h2.active,
+.huge-btn,
+.modern-services-carousel .owl-dots .owl-dot.active,
+.testimonials-carousel .owl-dots .owl-dot.active,
+.elegent-title:before,
+.provide-form form button,
+.provide-accordion.style3 .toggle-item > h2.active,
+.pro-info:hover span i,
+.newsletter-form button,
+.light-socials > a:hover,
+.option-set li a.view-all-projects,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.latest-news.list-style .news-description .meta:after,
+.blog-single ul li:before,
+.responsive-topbar{
+	background-color:#00abc9;
+}
+
+a:hover,
+.feature li:before,
+.option-set li a.selected,
+.meta li.posted-by a,
+.callback-form > h3 i,
+.mod-inner > h3,
+.client-info > h5,
+.aboutme-widget span,
+.simple-social a:hover,
+.provide-pagination ul li a:hover,
+.project-strategies ul li:before,
+.project-description li span,
+.newsletter > form button,
+.error-page h1,
+.search-result h3 span{
+	color:#00abc9;
+}
+
+.price-table:hover,
+.newsletter,
+.callback:before,
+.fancy-title:before,
+.provide-accordion.style3 .toggle-item > h2.active,
+.pro-info:hover span i,
+.provide-subscribe a:hover,
+.creative-slider,
+.creative-slider.style3 .metis .tp-bullet,
+.responsive-logobar{
+	border-color:#00abc9;
+}
+.widget-wrapper{
+	border-top-color:#00abc9;
+}
+
+
+
+
+nav > ul > li > a:before,
+.socials > a:hover,
+.round-btn,
+.project-links > a,
+.widget-title:before,
+.contact-form button,
+.inn-service > span i,
+.morris-hover.morris-default-style,
+.news-img > span.style2,
+.yellow-btn,
+.project-btn,
+.layer3,
+.menu-button,
+.close-menu{
+	background-color:#eeb013;
+}
+
+p.top-address i,
+nav > ul li:hover > a,
+.header-search > a:hover,
+.provide-project.style2 .project-links a:hover,
+.post-by a,
+.comment-details strong,
+.add i,
+nav > ul ul li.has-children:hover:before,
+.layer1 i,
+.responsive-menu ul li.menu-item-has-children > a:before{
+	color:#eeb013;
+}
+
+.round-btn,
+.morris-hover.morris-default-style{
+	border-color:#eeb013;
+}

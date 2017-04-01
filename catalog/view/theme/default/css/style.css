@@ -1,0 +1,24 @@
+body{
+    color: #ffce46;
+     /*background: url(http://s1.picswalls.com/wallpapers/2014/08/11/coin-background_090522440_190.jpg);*/
+}
+section{
+    background: #FFC107;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: transparent;
+}
+.message-box form input, .message-box form textarea {
+background: rgba(0, 0, 0, 0.24) none repeat scroll 0 0;
+    color: #342510;
+        border: 1px solid #fbd46b;
+    }
+.message-box label{
+    color: #000;
+}
+.icon-stat,.deposite {
+    background-color: rgb(0, 0, 0);
+}
+.menu-links {
+    background: #01b3d0;
+}
